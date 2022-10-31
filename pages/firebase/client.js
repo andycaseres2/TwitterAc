@@ -2,17 +2,17 @@ import { getFirestore } from "firebase/firestore";
 import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBp--F4wbS2YhzpMAjZGlkZ6nleWX47vek",
+  apiKey: "AIzaSyAFrqjIyU5hSyzRs6AkwNm6QwZT3wgLjbk",
 
-  authDomain: "twitterac-58897.firebaseapp.com",
+  authDomain: "twitterac-7365c.firebaseapp.com",
 
-  projectId: "twitterac-58897",
+  projectId: "twitterac-7365c",
 
-  storageBucket: "twitterac-58897.appspot.com",
+  storageBucket: "twitterac-7365c.appspot.com",
 
-  messagingSenderId: "1056523492167",
+  messagingSenderId: "432084792828",
 
-  appId: "1:1056523492167:web:356bfa33ebeddf1b8c8a62",
+  appId: "1:432084792828:web:9363339759910c5cf3ee79",
 };
 
 // Initialize Firebase
